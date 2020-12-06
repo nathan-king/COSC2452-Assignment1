@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GTerm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Week1/IIE1/lib/GTerm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
